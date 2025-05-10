@@ -11,7 +11,7 @@ export default defineConfig({
   title: 'Niri',
   description: 'A scrolling Wayland compositor',
   base: '/niri-docs/',
-  head: [['link', { rel: 'icon', href: '/niri-logo.svg' }]],
+  head: [['link', { rel: 'icon', href: 'niri-docs/niri-logo.svg' }]],
   lastUpdated: true,
   ignoreDeadLinks: true,
   themeConfig: {
