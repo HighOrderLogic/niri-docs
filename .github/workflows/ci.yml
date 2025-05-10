@@ -20,8 +20,8 @@ jobs:
       - name: Setup cache
         uses: actions/cache@v4
         with:
-          path: .nuxt
-          key: nuxt-cache
+          path: .vitepress/cache
+          key: vitepress-cache
       - name: Setup Node.js
         uses: oven-sh/setup-bun@v2
         with:
