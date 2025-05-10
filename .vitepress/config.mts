@@ -10,6 +10,7 @@ export default defineConfig({
   srcDir: './src',
   title: 'Niri',
   description: 'A scrolling Wayland compositor',
+  base: 'https://higherderlogic.github.io/niri-docs',
   head: [['link', { rel: 'icon', href: '/niri-logo.svg' }]],
   lastUpdated: true,
   ignoreDeadLinks: true,
