@@ -1,1 +1,1 @@
-highorderlogic.github.io/niri-docs
+https://highorderlogic.github.io/niri-docs
