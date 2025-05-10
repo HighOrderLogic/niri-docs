@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "dev": "vitepress dev .",
+    "build": "vitepress build .",
+    "preview": "vitepress preview ."
+  },
+  "devDependencies": {
+    "@types/node": "^22.16.4",
+    "view-transitions-api-types": "^0.1.1",
+    "vitepress": "^1.6.3"
+  }
+}
